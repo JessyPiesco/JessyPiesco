@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there, I'm Jessy! 👋
 
-<!--
-**JessyPiesco/JessyPiesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Colorado native and self-proclaimed geek with a passion for learning and problem-solving. My knack for pattern recognition allows me to excel in my current studies of IT and C++. 
 
-Here are some ideas to get you started:
+  •Fun fact about me: I can usually predict the "bad guy" in a movie within the first 10 minutes!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not coding or studying, I enjoy playing games, and sipping on a glass of wine, Corks, a project I'm currently working on, with the repository of Wino's.
+
+  •Fun fact about me: My favorite PS4 game is Horizon Zero Dawn
+
+Feel free to connect with me on LinkedIn and check out my personal website at https://jessypiesco.netlify.app/ to learn more about me and my projects.
+
+Let's build something great together! 🚀
