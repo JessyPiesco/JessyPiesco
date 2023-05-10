@@ -1,10 +1,10 @@
 Hi there, I'm Jessy! 👋
 
-I'm a Colorado native and self-proclaimed geek with a passion for learning and problem-solving. My knack for pattern recognition allows me to excel in expanding my skills in IT and learning C++.
+I'm a Colorado native and self-proclaimed geek with a passion for learning and problem-solving. My knack for pattern recognition allows me to excel in expanding my skills in IT and learning C++. 🖥️
 
-•Fun fact: I can usually predict the "bad guy" in a movie within the first 10 minutes!🎥
+•Fun fact: I can usually predict the "bad guy" in a movie within the first 10 minutes! 🎥
 
- When I'm not coding or studying, I enjoy playing games and sipping on a glass of wine. I'm currently working on Corks (under thereciprocity of Wino's), always lets me pick the best wines.🍷
+ When I'm not coding or studying, I enjoy playing games and sipping on a glass of wine. I'm currently working on Corks (under the reciprocity of Wino's), always lets me pick the best wines. 🍷
 
 •Fun fact: My favorite PS4 game is Horizon Zero Dawn. 🕹️
 
