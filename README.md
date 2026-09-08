@@ -9,6 +9,7 @@ Outside of client work, I build Corks (repo: wino), a personal project for disco
 A couple of fun facts:
 
 I can usually call the movie's "bad guy" within the first 10 minutes 🎥
+
 Horizon Zero Dawn series is my favorite PlayStation game 🕹️
 
 Let's connect on LinkedIn to stay in touch, and check out my personal website at https://jessypiesco.netlify.app/ to learn more about me and my projects. I'm always open to new opportunities and collaborations. Let's chat! 🚀
